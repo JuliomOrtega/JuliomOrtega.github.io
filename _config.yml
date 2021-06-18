@@ -9,7 +9,7 @@ defaults:
 paginate: 10
 paginate_path: "/blog/page:num/"
 
-title: Christian Ezeani
+title: Julio Ortega
 subtitle: Full-Stack Developer
 
 # left_side:
@@ -19,7 +19,7 @@ subtitle: Full-Stack Developer
 #   text_color: "#F00"
 
 footer:
-  copyright_text: "&copy; Christian Ezeani"
+  copyright_text: "&copy; Salesforce API Open pay"
 
 # Side Menu Links
 menu:
@@ -42,24 +42,4 @@ menu:
   - text: Blog Posts
     link: /blog
     icon: ""
-
-# Socialmedia Icons
-social_icons:
-  - name: linkedin
-    link: https://www.linkedin.com/christianezeani
-    icon: fab fa-linkedin
-
-  - name: github
-    link: https://github.com/christianezeani
-    icon: fab fa-github-square
-
-  - name: facebook
-    link: https://www.facebook.com/christian.ezeani.cyb
-    icon: fab fa-facebook-square
-
-  - name: twitter
-    link: https://www.twitter.com/christianezeani
-    icon: fab fa-twitter
-
-
     
